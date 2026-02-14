@@ -36,8 +36,8 @@ ENV_FILES_DIR = os.path.join(BASE_DIR, "env_vars")
 PERSISTENT_STATE_FILE = os.path.join(BASE_DIR, "bot_data.json")
 MARKETPLACE_DIR = os.path.join(BASE_DIR, "marketplace")
 
-SERVER_DOMAIN = "fi11.bot-hosting.net"
-WEB_PORT = 21338
+SERVER_DOMAIN = "https://ready-cloris-hsthgfgh-f44ea371.koyeb.app"
+WEB_PORT = 8000
 
 # Plan Limits - نظام الخطط المرنة (الافتراضية)
 DEFAULT_PLANS = {
