@@ -7,5 +7,8 @@ requests==2.31.0
 pyyaml==6.0.1
 uvicorn==0.27.1
 waitress==3.0.0
-telebot
+pyTelegramBotAPI==4.15.4
 
+# مهم جداً لحل خطأ maturin
+pydantic==2.7.1
+typing-extensions>=4.9.0
