@@ -27,7 +27,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.exceptions import TelegramForbiddenError, TelegramBadRequest
 
 # --- Configuration ---
-BOT_TOKEN = "8340676438:AAFWSiIz28eIDDIOG0q5iEJs9qrxvVNjkNs"
+BOT_TOKEN = "8394291829:AAFNcUZm9ahuR5z2OmIBfnd_3sVgRFUauD8"
 ADMIN_IDS = [7170744706, 7558661858, 7150744706]
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 USER_FILES_DIR = os.path.join(BASE_DIR, "user_files")
