@@ -9,6 +9,5 @@ uvicorn==0.27.1
 waitress==3.0.0
 pyTelegramBotAPI==4.15.4
 
-# مهم جداً لحل خطأ maturin
-pydantic==2.7.1
+pydantic==2.5.3
 typing-extensions>=4.9.0
